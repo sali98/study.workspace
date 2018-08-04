@@ -1,0 +1,3 @@
+[submodule "system-design-primer"]
+	path = system-design-primer
+	url = https://github.com/sali98/system-design-primer
