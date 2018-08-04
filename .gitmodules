@@ -4,3 +4,6 @@
 [submodule "Remote_Access_Library"]
 	path = Remote_Access_Library
 	url = https://github.com/sali98/Remote_Access_Library
+[submodule "winfsp"]
+	path = winfsp
+	url = https://github.com/sali98/winfsp
